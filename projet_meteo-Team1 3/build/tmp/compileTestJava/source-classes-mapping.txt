@@ -1,4 +1,0 @@
-app/appmeteo/model/AuthorsTest.java
- app.appmeteo.model.AuthorsTest
-app/appmeteo/AppMeteoCLITest.java
- app.appmeteo.AppMeteoCLITest
