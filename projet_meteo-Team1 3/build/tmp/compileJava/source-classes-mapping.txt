@@ -1,0 +1,18 @@
+app/appmeteo/WeatherOfTheDays.java
+ app.appmeteo.WeatherOfTheDays
+app/appmeteo/AppMeteoCLI.java
+ app.appmeteo.AppMeteoCLI
+app/appmeteo/AppMeteo.java
+ app.appmeteo.AppMeteo
+app/appmeteo/controller/AppMeteoController.java
+ app.appmeteo.controller.AppMeteoController
+app/appmeteo/FavCityList.java
+ app.appmeteo.FavCityList
+app/appmeteo/WeatherDataDaily.java
+ app.appmeteo.WeatherDataDaily
+app/appmeteo/WeatherDataFiveD.java
+ app.appmeteo.WeatherDataFiveD
+app/appmeteo/DateClass.java
+ app.appmeteo.DateClass
+app/appmeteo/model/Authors.java
+ app.appmeteo.model.Authors
